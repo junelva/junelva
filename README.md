@@ -9,7 +9,6 @@
 ### 🌿 Projects
 > - **[GammaRelay Applet](https://github.com/junelva/wl-gammarelay-applet)** – A DBus-connected Wayland tool ([see config logic](https://github.com/junelva/wl-gammarelay-applet/blob/main/src/main.rs#L29-L73)) for managing display settings with CLI flags and smooth delta state syncing.
 > - **[queer folk farm-punk](https://github.com/junelva/qffp)** – Tiny, expressive pixel games running in the terminal; what's not to love?
-> - **[shecv](https://github.com/junelva/shecv)** – One of many experimental miniature game engines built in Rust, this time demonstrating `wgpu` working with `SDL`.
 
 ### Philosophy
 > I design software the way poets lay stone paths—carefully, with attention to sensation and continuity.
